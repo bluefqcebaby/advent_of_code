@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "blueimp-md5": "^2.19.0"
+  }
+}
